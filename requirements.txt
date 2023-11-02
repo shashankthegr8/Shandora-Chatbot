@@ -1,0 +1,8 @@
+#The python libraries required for using the python code are as follows
+pyttsx3
+speech_recognition
+datetime
+wikipedia
+webbrowser
+os
+smtplib
